@@ -8,7 +8,7 @@ class Settings:
         self.ship_speed = 2.5
         self.ship_style = 'ship3.bmp'
         self.full_screen_mode = True
-        self.bullet_speed = 1
+        self.bullet_speed = 2
         self.bullet_width = 3
         self.bullet_height = 15
         self.bullet_color = 255, 255, 255
